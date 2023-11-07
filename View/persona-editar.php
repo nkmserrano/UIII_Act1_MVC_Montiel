@@ -4,7 +4,7 @@
 
 <ol class="breadcrumb">
   <li><a href="?c=Persona">Boletos</a></li>
-  <li class="active"><?php echo $alm->id_boleto != null ? $alm->nombres : 'Nuevo Registro'; ?></li>
+  <li class="active"><?php echo $alm->id_boleto != null ? $alm->codigo : 'Nuevo Registro'; ?></li>
 </ol>
 
 <form action="?c=Persona&a=Guardar" method="post" enctype="multipart/form-data">
