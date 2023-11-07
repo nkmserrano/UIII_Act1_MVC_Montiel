@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 	<head>
-		<title>Actividad 1</title>
+		<title>Actividad 1 MVC BoleNais</title>
         
         <meta charset="utf-8" />
         
