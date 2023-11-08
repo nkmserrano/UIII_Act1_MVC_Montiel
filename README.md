@@ -16,3 +16,6 @@ Tabla Boletos
 ![FORMULARIO EDITAR](https://github.com/nkmserrano/UIII_Act1_MVC_Montiel/blob/main/editar1.png)
 ![FORMULARIO EDITAR](https://github.com/nkmserrano/UIII_Act1_MVC_Montiel/blob/main/editar2.png)
 
+# Proceso Eliminar
+![ELIMINAR DATOS](https://github.com/nkmserrano/UIII_Act1_MVC_Montiel/blob/main/eliminar1.png)
+![ELIMINAR DATOS](https://github.com/nkmserrano/UIII_Act1_MVC_Montiel/blob/main/eliminar2.png)
