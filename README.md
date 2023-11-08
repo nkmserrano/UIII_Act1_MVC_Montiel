@@ -9,4 +9,10 @@ Tabla Boletos
 ![Pantalla inicio](https://github.com/nkmserrano/UIII_Act1_MVC_Montiel/blob/main/inicio.png)
 
 # Insertar datos
+![FORMULARIO INSERTAR](https://github.com/nkmserrano/UIII_Act1_MVC_Montiel/blob/main/dato1.png)
+![FORMULARIO INSERTAR](https://github.com/nkmserrano/UIII_Act1_MVC_Montiel/blob/main/dato2.png)
+
+# Editar Datos
+![FORMULARIO EDITAR](https://github.com/nkmserrano/UIII_Act1_MVC_Montiel/blob/main/editar1.png)
+![FORMULARIO EDITAR](https://github.com/nkmserrano/UIII_Act1_MVC_Montiel/blob/main/editar2.png)
 
